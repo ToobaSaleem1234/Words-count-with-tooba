@@ -20,4 +20,4 @@ console.log(words)
 
 console.log(`Your words count are:${words.length}`)
 
-console.log(chalk.red.bold("\n\t THANK-YOU FOR USING!\n\t"))
+console.log(chalk.red.bold("\n\t THANK-YOU!\n\t"))
